@@ -1,0 +1,23 @@
+==========CSS============
+
+CSS = Casecading Style Sheet
+
+1. Inlie CSS
+2. Internal CSS
+3. External CSS
+
+=========identify========
+
+1. tag
+2. Class
+3. id
+
+    Class track- .
+    Id track- #
+
+=======some special tag=========
+
+<div></div>
+<section></section>
+<Style></Style>
+<script></script>
